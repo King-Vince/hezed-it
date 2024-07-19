@@ -82,6 +82,8 @@ const Home = () => {
           <Button
             variant="contained"
             size="large"
+            component={Link}
+            to="/contact"
             sx={{
               borderRadius: "20px",
               backgroundColor: "#6E45EB",
@@ -161,6 +163,8 @@ const Home = () => {
               </Typography>
               <Button
                 color="inherit"
+                component={Link}
+                to="/contact"
                 sx={{
                   borderRadius: "20px",
                   color: "white",
