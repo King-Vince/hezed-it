@@ -13,7 +13,7 @@ const Header = () => (
         <img
           src={Logo} 
           alt="HEZED Logo"
-          style={{ width: '60px', marginLeft: '10rem', marginRight: '.5rem', borderRadius:"20px" }} 
+          style={{ width: '60px', marginLeft: '2rem', marginRight: '.5rem', borderRadius:"20px" }} 
         />
         <Typography variant="h6" sx={{ flexGrow: 1 }}>
           HEZED
