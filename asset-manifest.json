@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/King-Vince.github.io/hezed-it/static/css/main.bdf31351.css",
+    "main.js": "/King-Vince.github.io/hezed-it/static/js/main.1f9a2c49.js",
+    "static/js/453.ba1f1015.chunk.js": "/King-Vince.github.io/hezed-it/static/js/453.ba1f1015.chunk.js",
+    "static/media/bg2.jpg": "/King-Vince.github.io/hezed-it/static/media/bg2.94ae289fc9b146d55fdc.jpg",
+    "static/media/contactBg3.jpg": "/King-Vince.github.io/hezed-it/static/media/contactBg3.b957145083cf0ffd3af8.jpg",
+    "static/media/profile1.jpeg": "/King-Vince.github.io/hezed-it/static/media/profile1.d7989378a499963e94df.jpeg",
+    "static/media/hezedLogo2.png": "/King-Vince.github.io/hezed-it/static/media/hezedLogo2.8b2a17b9e9902e72fd9a.png",
+    "index.html": "/King-Vince.github.io/hezed-it/index.html",
+    "main.bdf31351.css.map": "/King-Vince.github.io/hezed-it/static/css/main.bdf31351.css.map",
+    "main.1f9a2c49.js.map": "/King-Vince.github.io/hezed-it/static/js/main.1f9a2c49.js.map",
+    "453.ba1f1015.chunk.js.map": "/King-Vince.github.io/hezed-it/static/js/453.ba1f1015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf31351.css",
+    "static/js/main.1f9a2c49.js"
+  ]
+}
