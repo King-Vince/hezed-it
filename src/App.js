@@ -6,7 +6,7 @@ import Home from './pages/Home';
 import ContactUs from './pages/ContactUs';
 
 const App = () => (
-  <Router basename="/">
+  <Router>
     <div>
       <Header />
       <Routes>
