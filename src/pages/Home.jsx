@@ -1,9 +1,9 @@
 import React, { useRef, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import { Container } from "@mui/material";
-import HeroSection from "./HeroSection";
-import ExpertArchitectsSection from "./ExpertArchitectsSection";
-import ServicesSection from "./ServicesSection";
+import HeroSection from "./sections/HeroSection";
+import ExpertArchitectsSection from "./sections/ExpertArchitectsSection";
+import ServicesSection from "./sections/ServicesSection";
 
 const Home = () => {
   const heroRef = useRef(null);

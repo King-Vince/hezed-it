@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Typography, Button } from "@mui/material";
 import { Link } from "react-router-dom";
-import backgroundImage from "../images/bg2.jpg";
+import backgroundImage from "../../images/bg2.jpg";
 
 const AutoBreakTypography = ({ text, ...props }) => {
   const sentences = text.split(".").filter((sentence) => sentence.trim() !== "");

@@ -7,7 +7,7 @@ import ContactUs from './pages/ContactUs';
 
 const App = () => (
   // basename="/hezed-it"
-  <Router>  
+  <Router basename="/hezed-it">  
     <div>
       <Header />
       <Routes>

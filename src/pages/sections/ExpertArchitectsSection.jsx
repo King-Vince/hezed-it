@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Typography, Grid, Button, Box } from "@mui/material";
 import { Link } from "react-router-dom";
-import profileImage from "../images/profile1.jpeg";
+import profileImage from "../../images/profile1.jpeg";
 
 const ExpertArchitectsSection = () => (
   <section style={{ backgroundColor: "#120A28", padding: "4rem 0" }}>

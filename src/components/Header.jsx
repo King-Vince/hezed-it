@@ -26,9 +26,11 @@ const Header = () => {
             alt="HEZED Logo"
             style={{ width: '40px', borderRadius: "20px" }}
           />
+          <Link to="/" style={{ textDecoration: 'none', color: 'inherit' }}>
           <Typography variant="h6" component="div">
             HEZED
           </Typography>
+        </Link>
         </Box>
         
         {isMobile ? (
