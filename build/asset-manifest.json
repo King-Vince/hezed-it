@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hezed-it/static/css/main.bdf31351.css",
-    "main.js": "/hezed-it/static/js/main.abd7fdd2.js",
+    "main.js": "/hezed-it/static/js/main.8d89362e.js",
     "static/js/453.ba1f1015.chunk.js": "/hezed-it/static/js/453.ba1f1015.chunk.js",
     "static/media/bg2.jpg": "/hezed-it/static/media/bg2.94ae289fc9b146d55fdc.jpg",
     "static/media/contactBg3.jpg": "/hezed-it/static/media/contactBg3.b957145083cf0ffd3af8.jpg",
@@ -9,11 +9,11 @@
     "static/media/hezedLogo2.png": "/hezed-it/static/media/hezedLogo2.8b2a17b9e9902e72fd9a.png",
     "index.html": "/hezed-it/index.html",
     "main.bdf31351.css.map": "/hezed-it/static/css/main.bdf31351.css.map",
-    "main.abd7fdd2.js.map": "/hezed-it/static/js/main.abd7fdd2.js.map",
+    "main.8d89362e.js.map": "/hezed-it/static/js/main.8d89362e.js.map",
     "453.ba1f1015.chunk.js.map": "/hezed-it/static/js/453.ba1f1015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdf31351.css",
-    "static/js/main.abd7fdd2.js"
+    "static/js/main.8d89362e.js"
   ]
 }

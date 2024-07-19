@@ -6,7 +6,7 @@ import Home from './pages/Home';
 import ContactUs from './pages/ContactUs';
 
 const App = () => (
-  <Router basename="/hezed-it">
+  <Router >
     <div>
       <Header />
       <Routes>
